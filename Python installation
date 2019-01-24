@@ -1,0 +1,9 @@
+Python installation
+* https://brew.sh/
+* https://hackercodex.com/guide/python-development-environment-on-mac-osx/ 
+    * Could not set up Mercurial because it requires 2.7
+1. Install home-brew first using: /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+    * Package manager
+    * See location screenshot below
+2. Brew install python
+    1. Decided to go with Python 3.6 since in 2020 many libraries have said they’re going to stop supporting 2.X so may as well get onboard
