@@ -7,3 +7,5 @@ Python installation
     * See location screenshot below
 2. Brew install python
     1. Decided to go with Python 3.6 since in 2020 many libraries have said they’re going to stop supporting 2.X so may as well get onboard
+
+To activate the vent "analytics", use source analytics/bin/activate
