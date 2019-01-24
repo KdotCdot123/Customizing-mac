@@ -1,0 +1,22 @@
+Mac Terminal
+
+* https://www.macforbeginners.com/osx-guide/mac-os-x-introduction/ 
+* https://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line
+* ~ means home folder
+* Setting up basic bash profile: https://hackercodex.com/guide/mac-development-configuration/  
+
+
+1. Program is the verb - tells computer what to do (i.e. ls means list the files)
+2. Options are the adverbs  i.e. -l means the long version so more detailed info
+3. Arguments - the objects of the sentences - tells the terminal what to have our program act on. Locations
+Created a directory
+* mkdir -p ~/Projects ~/Virtualenvs ~/Library/Application\ Support/pip
+* ~/Library/Application\ Support/pip/pip.conf
+
+
+
+IMPORTANT PROGRAMS
+* Man - describes the program
+* Cd change directory
+* Pwd print working directory
+Basic command prompts - https://github.com/0nn0/terminal-mac-cheatsheet 
